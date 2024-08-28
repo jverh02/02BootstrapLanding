@@ -1,0 +1,13 @@
+﻿.topnav, .footer,.pageheader
+{
+    background-color:#003e7a;
+}
+.topnav a, .pageheader {
+    color:#ffffff;
+}
+.search,.search input {
+    background-color:#1a5288;
+}
+.search input::placeholder, .search i {
+    color:#ffffff;
+}
